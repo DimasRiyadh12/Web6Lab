@@ -15,13 +15,13 @@
 ### 2. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap)
 
 
-1. Quick start
+#### 1. Quick start
 
 Buka web https://getbootstrap.com Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap, Saya memilih untuk copy
 
 ![img](ss/poto2.png)
 
-2. Navbar
+#### 2. Navbar
 
 Buat komponen website yang berupa menu. yang biasanya diletakkan pada header website.
 
@@ -31,13 +31,14 @@ Untuk mencari component klik menu documentation pada web bootstrap
 
 ![img](ss/poto4.png)
 
-3. Jumbotron
+#### 3. Jumbotron
 
 Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan untuk menampilkan sebuah infromasi penting.
 
 ![img](ss/poto5.png)
 
 ![img](ss/poto6.png)
+
 
 
 
