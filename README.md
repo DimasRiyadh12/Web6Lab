@@ -49,13 +49,13 @@ pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kol
 
 Penjelasan :
 
-col memberi style sebuah table berdasarkan kolom tertentu
+ col memberi style sebuah table berdasarkan kolom tertentu
 
-img-rounded-circle untuk membuat border pada gambar menjadi bulat
+ img-rounded-circle untuk membuat border pada gambar menjadi bulat
 
-pt-3 padding top = 3
+ pt-3 padding top = 3
 
-mt-3 margin top = 3
+ mt-3 margin top = 3
 
 saya menambah style untuk mengatur ukuran dan posisi pada gambar
 
