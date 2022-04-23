@@ -79,6 +79,25 @@ Buat body konten untuk yg kedua, dan masih menggunakan card
 
 ![img](ss/poto12.png)
 
+![img](ss/poto13.png)
+
+#### 7. Footer
+
+bagian akhir ini tambahkan footer.
+
+![img](ss/poto14.png)
+
+![img](ss/poto15.png)
+
+![img](ss/poto16.png)
+
+#### Tampilan Full
+
+![img](ss/poto17.png)
+
+Cukup sekian dan terima kasih.
+
+
 
 
 
